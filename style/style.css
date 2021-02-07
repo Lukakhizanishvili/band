@@ -3,3 +3,15 @@
     width: 100%;
     margin: 0 auto;
 }
+.navigation{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-li, .logo{
+    margin: 20px;
+    font-size: 20px;
+}
+.main{
+    width: 1127px;
+    margin: 10px 0;
+}
